@@ -444,8 +444,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e793be10e50e6054ba8d38f53b3b8ae7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pulseAmplitude: 0.1
-  pulseSpeed: 0
+  pulseAmount: 0.1
+  pulseSpeed: 1
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
@@ -1313,8 +1313,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e793be10e50e6054ba8d38f53b3b8ae7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pulseAmplitude: 0.1
-  pulseSpeed: 0
+  pulseAmount: 0.1
+  pulseSpeed: 1
 --- !u!1 &645312178
 GameObject:
   m_ObjectHideFlags: 0
@@ -1571,8 +1571,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e793be10e50e6054ba8d38f53b3b8ae7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pulseAmplitude: 0.05
-  pulseSpeed: 0
+  pulseAmount: 0.1
+  pulseSpeed: 1
 --- !u!1 &817446458
 GameObject:
   m_ObjectHideFlags: 0
@@ -2387,7 +2387,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e793be10e50e6054ba8d38f53b3b8ae7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pulseAmplitude: 0.05
+  pulseAmount: 0.1
   pulseSpeed: 1
 --- !u!1 &2124731754
 GameObject:
