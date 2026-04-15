@@ -7,7 +7,7 @@ public class BGcolourswap : MonoBehaviour
 {
     private RawImage thisImage;
 
-    [SerializeField] private Button[] buttons;
+    [SerializeField] Button[] buttons;
     //Buttons: 0 = 2D Work   1 = 3D Work   2 = Envoirments   3 = Projects
 
     void Start()
