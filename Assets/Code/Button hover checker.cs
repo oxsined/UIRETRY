@@ -8,10 +8,12 @@ public class ButtonHover : MonoBehaviour, IPointerEnterHandler, IPointerExitHand
     public bool isHovered;
 
     [SerializeField] public Color BackgroundColour;
+    //Voor het BGcolourswap script ^^^^^
 
     private void Start()
     {
         BackgroundColour.a = 1f;
+        //zet de alpha op 1 zodat het niet onzichtbaar word
     }
 
     public void OnPointerEnter(PointerEventData eventData)
