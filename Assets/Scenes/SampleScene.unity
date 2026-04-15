@@ -1903,7 +1903,7 @@ GameObject:
   - component: {fileID: 1279102066}
   - component: {fileID: 1279102068}
   m_Layer: 5
-  m_Name: RawImage
+  m_Name: ColouredBackground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1975,6 +1975,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7cc378a2856d31e49b6c6ede67c4bf80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  colourSwapSpeed: 1
   buttons:
   - {fileID: 2030652930}
   - {fileID: 808386993}
